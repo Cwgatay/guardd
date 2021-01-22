@@ -1,0 +1,17 @@
+{
+  "name": "helsingguard",
+  "version": "1.0.0",
+  "description": "helsing in guard botu",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Marissa#6335",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.3"
+  }
+}
